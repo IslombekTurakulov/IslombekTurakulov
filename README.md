@@ -6,7 +6,7 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 ### I'm currently learning
-![.Net](https://img.shields.io/badge/-Framework-090909k?style=for-the-badge&logo=.net&logoColor=E5D3FF)
+![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
 ### Follow me
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/DarkPrinceOfficial)
