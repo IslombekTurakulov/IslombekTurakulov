@@ -7,5 +7,5 @@ About
 
 ## I'm currently learning:
 
-![Flutter](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=C# )
+![C#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=appveyor )
 
