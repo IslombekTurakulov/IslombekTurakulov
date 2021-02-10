@@ -13,14 +13,14 @@
 
 ![Islombek's github stats](https://github-readme-stats.vercel.app/api?username=islombekturakulov&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&layout=compact)](https://github.com/islombekturakulov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&layout=compact&theme=radical)](https://github.com/islombekturakulov/github-readme-stats)
 
 
 <a href="https://github.com/islombekturakulov/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=checkersgame" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=checkersgame&theme=radical" />
 </a>
 <a href="https://github.com/islombekturakulov/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=notepadplusplus" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=notepadplusplus&theme=radical" />
 </a>
 
 
