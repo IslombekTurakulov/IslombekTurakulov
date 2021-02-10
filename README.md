@@ -16,8 +16,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&layout=compact)](https://github.com/islombekturakulov/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=islombekturakulov)](https://github.com/islombekturakulov/github-readme-stats)
-
 <a href="https://github.com/islombekturakulov/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=checkersgame" />
 </a>
