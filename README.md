@@ -19,10 +19,10 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=islombekturakulov)](https://github.com/islombekturakulov/github-readme-stats)
 
 <a href="https://github.com/islombekturakulov/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=checkersgame" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=convoychat" />
+<a href="https://github.com/islombekturakulov/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=notepadplusplus" />
 </a>
 
 
