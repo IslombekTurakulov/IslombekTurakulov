@@ -10,9 +10,10 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/c/DarkPrinceOfficial)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MrTurakulov)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/islomturakulov)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&langs_count=10&theme=flat&layout=compact" alt="Top Langs" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&layout=compact&theme=radical)](https://github.com/islombekturakulov/github-readme-stats)
+<div align="center">
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&langs_count=10&theme=flat&layout=compact&theme=radical" alt="Top Langs" /></p>
+<p align="right"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&layout=compact&theme=radical" alt="Langs"/><p>
+</div>
 <div align="center">
 <a href="https://github.com/islombekturakulov/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=checkersgame&theme=radical" />
