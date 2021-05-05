@@ -12,7 +12,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/islomturakulov)
 <div align="center">
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&langs_count=10&theme=flat&layout=compact&theme=radical" alt="Top Langs" /></p>
-<p align="right"><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&layout=compact&theme=radical" alt="Langs"/><p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api?username=islombekturakulov" alt="Profile Stats" /></p>
 </div>
 <div align="center">
 <a href="https://github.com/islombekturakulov/github-readme-stats">
