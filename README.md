@@ -10,22 +10,35 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MrTurakulov)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/islomturakulov)
+<p align="center">
+  <a href="https://t.me/MrTurakulov">
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="islombek turakulov telegram profile" height="30" width="30">
+  </a>
+  <a href="https://vk.com/islomturakulov">
+    <img src="https://www.vectorlogo.zone/logos/vkontakte/vkontakte-icon.svg" 
+    alt="islombek turakulov vkontakte profile" height="30" width="30">
+  </a>
+  
+  <a href="https://gitlab.com/IslombekTurakulov">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="islombek turakulov GitLab Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.instagram.com/islam.turakulov/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="islombek turakulov Instagram Profile" height="30" width="30">
+  </a>
+</p>
+<h2 align="center">Github stats :bar_chart:</h2>
 
-![Islombek's github stats](https://github-readme-stats.vercel.app/api?username=islombekturakulov&show_icons=true&theme=radical)
-<div align="center">
-  <a href="https://github.com/islombekturakulov/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&layout=compact&theme=radical" />
-</a>
-<a href="https://github.com/islombekturakulov/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=checkersgame&theme=radical" />
-</a>
-<a href="https://github.com/islombekturakulov/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=notepadplusplus&theme=radical" />
-</a>
-</div>
-<div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=islombekturakulov&theme=monokai&no-frame=true&margin-w=2&title=Stars,Commit,Issue,Follower,Repo,PullRequest&row=2&column=3" 
-  />
-</div>
+<h4 align="center">Visitor's count</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{IslombekTurakulov}/count.svg" alt="islombek turakulov visitor count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslombekTurakulov&langs_count=10&theme=flat&layout=compact" alt="erfan :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IslombekTurakulov" alt="erfan :: Profile Stats" /></p>
 
 
