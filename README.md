@@ -33,7 +33,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{IslombekTurakulov}/count.svg" alt="islombek turakulov visitor count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslombekTurakulov&langs_count=10&theme=flat&layout=compact" alt="erfan :: Top Langs" /></p>
 
