@@ -12,13 +12,15 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/islomturakulov)
 
 ![Islombek's github stats](https://github-readme-stats.vercel.app/api?username=islombekturakulov&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&layout=compact&theme=radical)](https://github.com/islombekturakulov/github-readme-stats)
 <div align="center">
+  <a href="https://github.com/islombekturakulov/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&layout=compact&theme=radical" />
+</a>
 <a href="https://github.com/islombekturakulov/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=checkersgame&theme=radical" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=checkersgame&theme=radical" />
 </a>
 <a href="https://github.com/islombekturakulov/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=notepadplusplus&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=islombekturakulov&repo=notepadplusplus&theme=radical" />
 </a>
 </div>
 <div align="center">
