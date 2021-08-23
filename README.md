@@ -15,8 +15,8 @@
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="islombek turakulov telegram profile" height="30" width="30">
   </a>
   <a href="https://vk.com/islomturakulov">
-    <img src="https://www.vectorlogo.zone/logos/vkontakte/vkontakte-icon.svg" 
-    alt="islombek turakulov vkontakte profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" 
+    alt="islombek turakulov vk profile" height="30" width="30">
   </a>
   
   <a href="https://gitlab.com/IslombekTurakulov">
