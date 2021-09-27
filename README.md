@@ -35,10 +35,10 @@
 
 <h4 align="center">Top langs</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslombekTurakulov&langs_count=10&theme=flat&layout=compact" alt="erfan :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslombekTurakulov&langs_count=15&theme=material&layout=compact" alt="erfan :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IslombekTurakulov" alt="erfan :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IslombekTurakulov&theme=material" alt="erfan :: Profile Stats" /></p>
 
 
