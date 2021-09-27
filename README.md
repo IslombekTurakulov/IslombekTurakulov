@@ -39,7 +39,7 @@
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IslombekTurakulov&theme=github_dark" alt="erfan :: Profile Stats" /></p>
 <p align ="center">
- [![islombek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=islombekturakulov)](https://github.com/anuraghazra/github-readme-stats)
+ [![islombek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IslombekTurakulov)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
