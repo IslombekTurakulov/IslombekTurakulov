@@ -18,7 +18,6 @@
     <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" 
     alt="islombek turakulov vk profile" height="30" width="30">
   </a>
-  
   <a href="https://gitlab.com/IslombekTurakulov">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="islombek turakulov GitLab Profile" height="30" width="30">
   </a>
