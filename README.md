@@ -34,7 +34,7 @@
 
 <h4 align="center">Top langs</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslombekTurakulov&langs_count=15&theme=github_dark&layout=compact" alt="erfan :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslombekTurakulov&langs_count=15&theme=radical&layout=compact" alt="erfan :: Top Langs" /></p>
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="erfan :: Top Langs" /></p>
 
