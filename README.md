@@ -27,7 +27,7 @@
   </a>
 </p>
 <h2 align="center">Github stats :bar_chart:</h2>
-
+"https://github-readme-stats.vercel.app/api?username=IslombekTurakulov&theme=github_dark
 <h4 align="center">Visitor's count</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{IslombekTurakulov}/count.svg" alt="islombek turakulov visitor count" /></p>
@@ -36,5 +36,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslombekTurakulov&langs_count=15&theme=github_dark&layout=compact" alt="erfan :: Top Langs" /></p>
 <h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IslombekTurakulov&theme=github_dark" alt="erfan :: Profile Stats" /></p>
+<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</p>
 
