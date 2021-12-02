@@ -31,9 +31,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{IslombekTurakulov}/count.svg" alt="islombek turakulov visitor count" /></p>
 
-<h4 align="center">Top langs</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslombekTurakulov&langs_count=15&theme=radical&layout=compact" alt="erfan :: Top Langs" /></p>
+<p align="center"><img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&langs_count=10&hide=html&layout=compact&hide_border=true&hide_title=true&theme=merko" /></p>
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&show_icons=true&theme=radical" alt="erfan :: Top Langs" /></p>
 
