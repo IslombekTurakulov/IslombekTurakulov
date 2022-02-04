@@ -23,9 +23,6 @@ I'm Islam Turakulov, 18 y.o. Currently studying at Higher School of Economics, F
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img width="550px" src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&layout=compact&hide_border=true&show_icons=true&theme=radical"/></p>
 
-### Follow me
-[![TG](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MrTurakulov)
-[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/islomturakulov)
 <p align="center">
   <a href="https://t.me/MrTurakulov">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="islombek turakulov telegram profile" height="30" width="30">
@@ -40,6 +37,12 @@ I'm Islam Turakulov, 18 y.o. Currently studying at Higher School of Economics, F
   
   <a href="https://www.instagram.com/islam.turakulov/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="islombek turakulov Instagram Profile" height="30" width="30">
+  </a>
+  <a href="https://t.me/MrTurakulov">
+     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="islombek turakulov Telegram Profile" height="30" width="30">
+  </a>
+    <a href="https://vk.com/islomturakulov">
+     <img src="https://www.vectorlogo.zone/logos/vk/vk-tile.svgg" alt="islombek turakulov VKontakte Profile" height="30" width="30">
   </a>
 </p>
 
