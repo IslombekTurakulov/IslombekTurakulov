@@ -1,8 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+---------------------------------
+
 ### I'm Islam Turakulov, 18 y.o. Currently studying at Higher School of Economics, Faculty of Computer Science, Bachelor’s Programme Software Engineering.
 
 
-### Programming languages
+## Programming languages
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF&theme=radical)
 ![CSharp](https://img.shields.io/badge/-CSharp-090909?style=for-the-badge&logo=csharp&logoColor=E5D3FF&theme=radical)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB&theme=radical)
