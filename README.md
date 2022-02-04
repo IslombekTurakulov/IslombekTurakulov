@@ -21,8 +21,8 @@ I'm Islam Turakulov, 18 y.o. Currently studying at Higher School of Economics, F
 
 
 <p align="center">
-  <img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&langs_count=10&hide=html&layout=compact&hide_border=true&hide_title=true&theme=radical" />
-  <img width="550px" src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&layout=compact&hide_border=true&show_icons=true&theme=radical"/>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&langs_count=10&hide=html&layout=compact&hide_border=true&hide_title=true&theme=radical" />
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&layout=compact&hide_border=true&show_icons=true&theme=radical"/>
 </p>
 <p align="center">
   <a href="https://t.me/MrTurakulov">
