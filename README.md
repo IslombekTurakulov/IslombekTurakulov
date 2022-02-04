@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----------------------------------
-
 ### I'm Islam Turakulov, 18 y.o. Currently studying at Higher School of Economics, Faculty of Computer Science, Bachelor’s Programme Software Engineering.
 
 
