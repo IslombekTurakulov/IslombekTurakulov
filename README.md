@@ -1,15 +1,29 @@
 ### Hi there 👋
-## Email: iuturakulov@edu.hse.ru
-[![Header](https://github.com/IslombekTurakulov/IslombekTurakulov/blob/main/Images/header2.jpg)](https://www.youtube.com/c/DarkPrinceOfficial)
+I'm Islam Turakulov, 18 y.o. Currently studying at Higher School of Economics, Faculty of Computer Science, Bachelor’s Programme Software Engineering.
 
-### I'm currently learning
+
+### Programming languages
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF&theme=radical)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB&theme=radical)
+![C++](https://img.shields.io/badge/-CPP-090909?style=for-the-badge&logo=cpp&logoColor=47C5FB&theme=radical)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB&theme=radical)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB&theme=radical)
+
+### 2021-2022
+- Assistant teacher of the Higher School of Economics of the subject of Python Algebra and Mathematical Analysis.
+
+<h2 align="center">Github stats :bar_chart:</h2>
+<h4 align="center">Visitor's count</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{IslombekTurakulov}/count.svg" alt="islombek turakulov visitor count" /></p>
+
+<p align="center"><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&langs_count=10&hide=html&layout=compact&hide_border=true&hide_title=true&theme=radical" /></p>
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+<p align="center"><img width="550px" src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&layout=compact&hide_border=true&show_icons=true&theme=radical"/></p>
+
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MrTurakulov)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/islomturakulov)
+[![TG](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/MrTurakulov)
+[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/islomturakulov)
 <p align="center">
   <a href="https://t.me/MrTurakulov">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="islombek turakulov telegram profile" height="30" width="30">
@@ -26,12 +40,4 @@
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="islombek turakulov Instagram Profile" height="30" width="30">
   </a>
 </p>
-<h2 align="center">Github stats :bar_chart:</h2>
-<h4 align="center">Visitor's count</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{IslombekTurakulov}/count.svg" alt="islombek turakulov visitor count" /></p>
-
-<p align="center"><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&langs_count=10&hide=html&layout=compact&hide_border=true&hide_title=true&theme=radical" /></p>
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-<p align="center"><img width="550px" src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&layout=compact&hide_border=true&show_icons=true&theme=radical"/></p>
 
