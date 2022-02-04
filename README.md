@@ -42,7 +42,7 @@ I'm Islam Turakulov, 18 y.o. Currently studying at Higher School of Economics, F
      <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="islombek turakulov Telegram Profile" height="30" width="30">
   </a>
     <a href="https://vk.com/islomturakulov">
-     <img src="https://www.vectorlogo.zone/logos/vk/vk-tile.svgg" alt="islombek turakulov VKontakte Profile" height="30" width="30">
+     <img src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="islombek turakulov VKontakte Profile" height="30" width="30">
   </a>
 </p>
 
