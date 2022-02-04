@@ -4,8 +4,10 @@ I'm Islam Turakulov, 18 y.o. Currently studying at Higher School of Economics, F
 
 ### Programming languages
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF&theme=radical)
+![c#](https://img.shields.io/badge/-C#-090909?style=for-the-badge&logo=.csharp&logoColor=E5D3FF&theme=radical)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB&theme=radical)
-![C++](https://img.shields.io/badge/-CPP-090909?style=for-the-badge&logo=cpp&logoColor=47C5FB&theme=radical)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=47C5FB&theme=radical)
+![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=c&logoColor=47C5FB&theme=radical)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=47C5FB&theme=radical)
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java&logoColor=47C5FB&theme=radical)
 
