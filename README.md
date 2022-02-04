@@ -17,7 +17,6 @@
 ## 2021-2022
 ### - Assistant teacher of the Higher School of Economics of the subject of Python Algebra and Mathematical Analysis.
 
-<h2 align="center">Github stats :bar_chart:</h2>
 <h4 align="center">Visitor's count</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{IslombekTurakulov}/count.svg" alt="islombek turakulov visitor count" /></p>
