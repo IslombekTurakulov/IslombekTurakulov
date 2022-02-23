@@ -25,7 +25,7 @@
   <img width="550px" src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&layout=compact&hide_border=true&show_icons=true&theme=radical"/>
 </p>
 <p align="center">
-  <a href="https://t.me/MrTurakulov">
+  <a href="https://t.me/ITurakulov">
     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="islombek turakulov telegram profile" height="30" width="30">
   </a>
   <a href="https://vk.com/islomturakulov">
