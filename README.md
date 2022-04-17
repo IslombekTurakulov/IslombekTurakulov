@@ -24,26 +24,4 @@
   <img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=islombekturakulov&langs_count=10&hide=html&layout=compact&hide_border=true&hide_title=true&theme=radical" />
   <img width="550px" src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&layout=compact&hide_border=true&show_icons=true&theme=radical"/>
 </p>
-<p align="center">
-  <a href="https://vk.com/islomturakulov">
-    <img src="https://www.vectorlogo.zone/logos/vk/vk-icon.svg" 
-    alt="islombek turakulov vk profile" height="30" width="30">
-  </a>
-  <a href="https://gitlab.com/IslombekTurakulov">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="islombek turakulov GitLab Profile" height="30" width="30">
-  </a>
-  
-  <a href="https://www.instagram.com/islam.turakulov/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="islombek turakulov Instagram Profile" height="30" width="30">
-  </a>
-  <a href="https://t.me/MrTurakulov">
-     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="islombek turakulov Telegram Profile" height="30" width="30">
-  </a>
-  <a href="https://t.me/ITurakulov">
-     <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="islombek turakulov Telegram Profile" height="30" width="30">
-  </a>
-    <a href="https://vk.com/islomturakulov">
-     <img src="https://www.vectorlogo.zone/logos/vk/vk-tile.svg" alt="islombek turakulov VKontakte Profile" height="30" width="30">
-  </a>
-</p>
 
