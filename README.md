@@ -12,6 +12,6 @@
 
 
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&layout=compact&hide_border=true&show_icons=true&theme=radical"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api?username=islombekturakulov&layout=compact&hide_border=true&show_icons=true&theme=radical"/>
 </p>
 
