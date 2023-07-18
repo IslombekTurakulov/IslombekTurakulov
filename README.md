@@ -1,6 +1,6 @@
 #### Hi there 👋
 
-##### I'm Islam Turakulov, 19 y.o. Currently studying at Higher School of Economics, Faculty of Computer Science, Bachelor’s Programme Software Engineering.
+##### I'm Islam Turakulov, 20 y.o. Currently studying at Higher School of Economics, Faculty of Computer Science, Bachelor’s Programme Software Engineering.
 
 ##### 2022-2023
  - Assistant teacher of the Higher School of Economics of the subject of [Algorithms and Data Structures](https://www.hse.ru/ba/se/courses/646475757.html).
